@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-	<script src="js/bootstrap.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="bootstrap.min.css">
+	<script src="bootstrap.min.js"></script>
 	<title></title>
 </head>
 
 <body>
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-md-2">
+			<div class="col-md-2 ">
 				<p>logo</p>
 			</div>
 			<div class="col-md-10" style="background-color:skyblue">
@@ -18,11 +18,20 @@
 		</div>
 
 		<div class="row">
-			<div class="col-md-9" style="background-color:yellow">
-				<p>navigation</p>
+			<div class="col-md-7">
+			<ul class="nav nav-tabs">
+  				<li role="presentation" class="active"><a href="index.html">link 1</a></li>
+  				<li role="presentation"><a href="#">link 2</a></li>
+  				<li role="presentation"><a href="#">link 3</a></li>
+			</ul>
 			</div>
-			<div class="col-md-3" style="background-color:white">
-				<p>search bar</p>
+			<div class="col-md-5" style="background-color:white">
+				 <div class="input-group">
+      				<input type="text" class="form-control" placeholder="Search for...">
+      				<span class="input-group-btn">
+        				<button class="btn btn-default" type="button">Go!</button>
+      				</span>
+    			</div>
 			</div>
 		</div>
 
