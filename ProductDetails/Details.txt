@@ -1,0 +1,66 @@
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+products:
+
+1. Alienware 17 R4  
+links: http://www.ultrabookreview.com/15147-alienware-17-r4-review/
+img: http://i.dell.com/sites/imagecontent/app-merchandizing/responsive/LearnSegment/alienware/assets/en/PublishingImages/Alienware-images/alienware-laptop-category-premigration-day01_Module-3.jpg
+specs: 
+screen: 17.3 inch, 2560 x 1440 px resulotion, TN, 120Hz, matte, non-tocuh
+processor: Intel Kaby Lake Core i7-7820HK CPU, quad-core 2.9 GHz, 3.9Ghz turbo
+video: Nvidia GeForce GTX 1080 with 8GB GDDR5X RAM
+memory: 16 GB DDR4 2400 PC4-19200
+storage: 1x 256 GB M.2 SSD NVMe + 1 TB HDD 7200rpm (2 empty M.2 slots)
+ports: 2x USB 3.0 type A, 1x USB Type-C(Thunderbolt 3), 1x USB Type-C (10Gbps), HDMI 2.0, mini-display port 1.2, RJ45, Alienware graphics amplifier, mic, earphone, noble lock
+   	
+
+2.SkyTech Supremacy Gaming Computer PC Desktop
+links: http://www.gamingcomputerbuilder.com/product/gtx-1080-vr-ready-skytech-supremacy-gaming-computer-pc-desktop-i7-6700k-4-0ghz-360mm-rgb-liquid-cooled-gtx-1080-8gb-2tb-hdd-480gb-ssd-32gb-ddr4-win-10-pro-64-bit/
+img: http://ecx.images-amazon.com/images/I/51bYCDIVdtL.jpg
+spec:
+processor:  Intel i7-6700K Skylake Quad-Core 4.0GHz Processor | 2 TB 7200RPM Hard Drive | 480GB SSD
+video: Nvidia GTX 1080 8GB Video Card | 32GB DDR4 | Windows 10 Professional 64-bit
+ports:  Wi-Fi Ready | No bloatware | 1 x DVI, 3 x Display Port (Version 1.4) | 1 x HDMI | 10 x USB (5 x USB 3.0; 1X USB3.1; 4 x USB2.0)
+
+
+3.Asus ROG G752VS-XB72K
+links: http://nanoproxy.de/browse.php/qwdBh2zN/0WPxscKl/PZd_2BsC/2XNyWj0P/YXy_2BlA/kGYnBhNs/IkWoLeCP/d4AEXMe3/A9_2FNUN/UboDkYZv/gKVZ9KL3/K_2B4HRq/fveZgymr/XDi8et0M/vrjKJ4g1/V7CjtoBR/55gmsOvN/DNctB06t/BcwlcBC5/6GX8C_2F/c6uXc_2B/Tq80/b5/fnorefer
+img: http://images.techhive.com/images/article/2016/08/hero1_2-100678755-large.jpg
+CPU: Intel Core i7 (6th Gen) 6820HK / 2.7 GHz
+RAM: 32 GB
+processor: NVIDIA GeForce GTX 1070 - 8 GB GDDR5 SDRAM
+
+4. Alienware Area-51
+link: http://www.dell.com/en-us/shop/productdetails/alienware-area51-r2?ref=PD_OC
+img: http://cdn.wccftech.com/wp-content/uploads/2014/08/Alienware-Area-51-Featured-Image.jpg
+specs:
+Intel® Core™ i7-6950X
+32GB Quad Channel DDR4 at 2400MHz; up to 64GB
+NVIDIA® GeForce® GTX 1080 Ti with 11GB GDDR5X
+
+5.Razer Blade
+link: https://www.razerzone.com/gaming-systems/razer-blade
+img: https://assets.razerzone.com/eeimages/products/26727/razer-blade-hero-laptop-v2.png
+specs: 
+
+
+
+
+links https://www.amazon.com/s/ref=sr_pg_2/132-2612475-0301843?rh=i%3Aaps%2Ck%3AAlienware+17+r4&page=2&keywords=Alienware+17+r4&ie=UTF8&qid=1498698683&spIA=B01KUVB5QG,B06XMYP2M5
