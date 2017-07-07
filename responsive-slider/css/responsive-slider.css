@@ -85,7 +85,7 @@
   width: 30%;
 }
 .responsive-slider .slides ul li .slide-body .caption.img-html5 img {
-  max-width: 100%;
+  max-width: 90%;
 }
 .responsive-slider .slides ul li .slide-body .caption.img-css3 {
   top: 57%;
@@ -101,7 +101,7 @@
   width: 11%;
 }
 .responsive-slider .slides ul li .slide-body .caption.img-bootstrap img {
-  max-width: 100%;
+  max-width: 80%;
 }
 .responsive-slider .slides ul li .slide-body .caption.img-twitter {
   top: 19%;
