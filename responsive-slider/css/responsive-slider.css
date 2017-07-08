@@ -174,11 +174,12 @@
   height: 15px;
   border: none;
   border-radius: 100%;
-  line-height: 30px;
+  line-height: 50px;
   color: #fff;
   background-color: #999;
   transition: all 0.25s ease;
 }
+
 .responsive-slider .pages .page.active {
   opacity: 1;
   background-color: #337ab7;
