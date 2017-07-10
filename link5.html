@@ -5,7 +5,7 @@
 		<link rel="stylesheet" type="text/css" href="https://bootswatch.com/paper/bootstrap.min.css">
 		<link href="responsive-slider/css/responsive-slider.css" rel="stylesheet">
 		<script src="bootstrap.min.js"></script>
-		<title></title>
+		<title>Contact Page</title>
 	</head>
 
 	<body>
@@ -50,15 +50,14 @@
 
 	    							<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-2">
 	      								<ul class="nav navbar-nav">
-	        								<li><a href="index.html" class="btn btn-primary">HOME<span class="sr-only">(current)</span></a></li>
-									        <li><a href="link2.html" class="btn btn-primary">PC</a></li>
-									        <li><a href="link3.html" class="btn btn-primary">Gaming PC</a></li>
-									        <li><a href="link4.html" class="btn btn-primary">Laptops</a></li>
-									        <li class="active"><a href="link5.html" class="btn btn-primary">Gaming Laptops</a></li>
-									        <li><a href="link6.html" class="btn btn-primary">Computer Accessories</a></li>
+	        								<li><a href="index.html" class="btn btn-primary">HOME</a></li>
+									       <li><a href="link2.html">PC</a></li>
+									        <li><a href="link3.html" class="btn btn-primary">Laptops</a></li>
+									        <li><a href="link4.html" class="btn btn-primary">Peripherals</a></li>
+									        <li class="active"><a href="link5.html" class="btn btn-primary">Contact Us!<span class="sr-only">(current)</span></a></li>
 	      								</ul>
 
-	      								<form class="navbar-form navbar-left" role="search" style="padding-left: 90px">
+	      								<form class="navbar-form navbar-left pull-right" role="search" style="padding-left: 90px">
 	        								<div class="form-group">
 	          									<input type="text" class="form-control" placeholder="Search">
 	        								</div>
@@ -71,10 +70,103 @@
 					</div>
 				</div>
 			</div>
-		</div>
+		
+
+			<!-- For navbar -END- -->
+
+<!-- For jumbotron(Heading) -->
+			<div class="jumbotron jumbotron-sm">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-lg-12">
+                <h1 class="h1">
+                    Contact Us <small>Feel free to contact us!</small></h1>
+            </div>
+        </div>
+    </div>
+</div>
+			<!-- For jumbotron (Heading) -END- -->
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-8">
+            <div class="well well-sm">
+                <form>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label for="name">
+                                Name</label>
+                            <input type="text" class="form-control" id="name" placeholder="Enter name" required="required" />
+                        </div>
+                        <div class="form-group">
+                            <label for="email">
+                                Email Address</label>
+                            <div class="input-group">
+                                <span class="input-group-addon"><span class="glyphicon glyphicon-envelope"></span>
+                                </span>
+                                <input type="email" class="form-control" id="email" placeholder="Enter email" required="required" /></div>
+                        </div>
+                        <div class="form-group">
+                            <label for="subject">
+                                Subject</label>
+                            <select id="subject" name="subject" class="form-control" required="required">
+                                <option value="na" selected="">Choose One:</option>
+                                <option value="service">General Customer Service</option>
+                                <option value="suggestions">Suggestions</option>
+                                <option value="product">Product Support</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label for="name">
+                                Message</label>
+                            <textarea name="message" id="message" class="form-control" rows="9" cols="25" required="required"
+                                placeholder="Message"></textarea>
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <button type="submit" class="btn btn-primary pull-right" id="btnContactUs">
+                            Send Message</button>
+                    </div>
+                </div>
+                </form>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <form>
+            <legend><span class="glyphicon glyphicon-globe"></span> Our office</legend>
+            <address>
+                <strong>©Techbiz</strong><br>
+                University of the Cordilleras<br>
+                Baguio City, Philippines 2600<br>
+                <abbr title="Phone">
+                    P:</abbr>
+                (123) 456-7890
+            </address>
+            <address>
+                <strong>Ian Jericho L. Lamis</strong><br>
+                <a href="mailto:#">ianjericho25@yahoo.com</a>
+            </address>
+
+             <address>
+                <strong>Abigail Visperas</strong><br>
+                <a href="mailto:#">dd@yahoo.com</a>
+            </address>
+
+             <address>
+                <strong>Jazrell Kyle V. Deoso</strong><br>
+                <a href="mailto:#">ee@yahoo.com</a>
+            </address>
+
+            </form>
+        </div>
+    </div>
+</div>
+
+
 	</body>
 </html>
 
 
-
-			<!-- For navbar -END- -->
